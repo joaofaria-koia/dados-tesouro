@@ -1,0 +1,264 @@
+{
+  "ultima_atualizacao": "15/07/2025 • 18h00min",
+  "titulos": [
+    {
+      "nome": "Tesouro Prefixado2028",
+      "rentabilidade_anual": "13,64%",
+      "investimento_minimo": "R$ 7,30",
+      "preco_unitario": "R$ 730,45",
+      "vencimento": "01/01/2028"
+    },
+    {
+      "nome": "Tesouro Prefixado2032",
+      "rentabilidade_anual": "13,91%",
+      "investimento_minimo": "R$ 4,32",
+      "preco_unitario": "R$ 432,90",
+      "vencimento": "01/01/2032"
+    },
+    {
+      "nome": "Tesouro Prefixadocom juros semestrais2035",
+      "rentabilidade_anual": "14,00%",
+      "investimento_minimo": "R$ 8,08",
+      "preco_unitario": "R$ 808,78",
+      "vencimento": "01/01/2035"
+    },
+    {
+      "nome": "Tesouro Selic2028",
+      "rentabilidade_anual": "SELIC + 0,0551%",
+      "investimento_minimo": "R$ 169,22",
+      "preco_unitario": "R$ 16.922,60",
+      "vencimento": "01/03/2028"
+    },
+    {
+      "nome": "Tesouro Selic2031",
+      "rentabilidade_anual": "SELIC + 0,1036%",
+      "investimento_minimo": "R$ 168,49",
+      "preco_unitario": "R$ 16.849,24",
+      "vencimento": "01/03/2031"
+    },
+    {
+      "nome": "Tesouro IPCA+2029",
+      "rentabilidade_anual": "IPCA + 7,79%",
+      "investimento_minimo": "R$ 34,05",
+      "preco_unitario": "R$ 3.405,82",
+      "vencimento": "15/05/2029"
+    },
+    {
+      "nome": "Tesouro IPCA+2040",
+      "rentabilidade_anual": "IPCA + 7,04%",
+      "investimento_minimo": "R$ 16,32",
+      "preco_unitario": "R$ 1.632,16",
+      "vencimento": "15/08/2040"
+    },
+    {
+      "nome": "Tesouro IPCA+2050",
+      "rentabilidade_anual": "IPCA + 6,89%",
+      "investimento_minimo": "R$ 8,60",
+      "preco_unitario": "R$ 860,19",
+      "vencimento": "15/08/2050"
+    },
+    {
+      "nome": "Tesouro IPCA+com juros semestrais2035",
+      "rentabilidade_anual": "IPCA + 7,35%",
+      "investimento_minimo": "R$ 41,75",
+      "preco_unitario": "R$ 4.175,55",
+      "vencimento": "15/05/2035"
+    },
+    {
+      "nome": "Tesouro IPCA+com juros semestrais2045",
+      "rentabilidade_anual": "IPCA + 7,19%",
+      "investimento_minimo": "R$ 40,39",
+      "preco_unitario": "R$ 4.039,72",
+      "vencimento": "15/05/2045"
+    },
+    {
+      "nome": "Tesouro IPCA+com juros semestrais2060",
+      "rentabilidade_anual": "IPCA + 7,12%",
+      "investimento_minimo": "R$ 40,22",
+      "preco_unitario": "R$ 4.022,46",
+      "vencimento": "15/08/2060"
+    },
+    {
+      "nome": "Tesouro Renda+Aposentadoria Extra2030",
+      "rentabilidade_anual": "IPCA + 7,15%",
+      "investimento_minimo": "R$ 18,13",
+      "preco_unitario": "R$ 1.813,64",
+      "vencimento": "15/12/2049"
+    },
+    {
+      "nome": "Tesouro Renda+Aposentadoria Extra2035",
+      "rentabilidade_anual": "IPCA + 7,03%",
+      "investimento_minimo": "R$ 13,11",
+      "preco_unitario": "R$ 1.311,73",
+      "vencimento": "15/12/2054"
+    },
+    {
+      "nome": "Tesouro Renda+Aposentadoria Extra2040",
+      "rentabilidade_anual": "IPCA + 6,98%",
+      "investimento_minimo": "R$ 9,45",
+      "preco_unitario": "R$ 945,54",
+      "vencimento": "15/12/2059"
+    },
+    {
+      "nome": "Tesouro Renda+Aposentadoria Extra2045",
+      "rentabilidade_anual": "IPCA + 6,97%",
+      "investimento_minimo": "R$ 6,77",
+      "preco_unitario": "R$ 677,98",
+      "vencimento": "15/12/2064"
+    },
+    {
+      "nome": "Tesouro Renda+Aposentadoria Extra2050",
+      "rentabilidade_anual": "IPCA + 6,97%",
+      "investimento_minimo": "R$ 4,85",
+      "preco_unitario": "R$ 485,06",
+      "vencimento": "15/12/2069"
+    },
+    {
+      "nome": "Tesouro Renda+Aposentadoria Extra2055",
+      "rentabilidade_anual": "IPCA + 7,00%",
+      "investimento_minimo": "R$ 3,43",
+      "preco_unitario": "R$ 343,43",
+      "vencimento": "15/12/2074"
+    },
+    {
+      "nome": "Tesouro Renda+Aposentadoria Extra2060",
+      "rentabilidade_anual": "IPCA + 7,02%",
+      "investimento_minimo": "R$ 2,43",
+      "preco_unitario": "R$ 243,42",
+      "vencimento": "15/12/2079"
+    },
+    {
+      "nome": "Tesouro Renda+Aposentadoria Extra2065",
+      "rentabilidade_anual": "IPCA + 7,02%",
+      "investimento_minimo": "R$ 1,73",
+      "preco_unitario": "R$ 173,75",
+      "vencimento": "15/12/2084"
+    },
+    {
+      "nome": "Tesouro Educa+2026",
+      "rentabilidade_anual": "IPCA + 8,11%",
+      "investimento_minimo": "R$ 36,23",
+      "preco_unitario": "R$ 3.623,65",
+      "vencimento": "15/12/2030"
+    },
+    {
+      "nome": "Tesouro Educa+2027",
+      "rentabilidade_anual": "IPCA + 7,87%",
+      "investimento_minimo": "R$ 33,82",
+      "preco_unitario": "R$ 3.382,17",
+      "vencimento": "15/12/2031"
+    },
+    {
+      "nome": "Tesouro Educa+2028",
+      "rentabilidade_anual": "IPCA + 7,70%",
+      "investimento_minimo": "R$ 31,60",
+      "preco_unitario": "R$ 3.160,49",
+      "vencimento": "15/12/2032"
+    },
+    {
+      "nome": "Tesouro Educa+2029",
+      "rentabilidade_anual": "IPCA + 7,57%",
+      "investimento_minimo": "R$ 29,56",
+      "preco_unitario": "R$ 2.956,39",
+      "vencimento": "15/12/2033"
+    },
+    {
+      "nome": "Tesouro Educa+2030",
+      "rentabilidade_anual": "IPCA + 7,48%",
+      "investimento_minimo": "R$ 27,64",
+      "preco_unitario": "R$ 2.764,66",
+      "vencimento": "15/12/2034"
+    },
+    {
+      "nome": "Tesouro Educa+2031",
+      "rentabilidade_anual": "IPCA + 7,40%",
+      "investimento_minimo": "R$ 25,87",
+      "preco_unitario": "R$ 2.587,95",
+      "vencimento": "15/12/2035"
+    },
+    {
+      "nome": "Tesouro Educa+2032",
+      "rentabilidade_anual": "IPCA + 7,32%",
+      "investimento_minimo": "R$ 24,26",
+      "preco_unitario": "R$ 2.426,33",
+      "vencimento": "15/12/2036"
+    },
+    {
+      "nome": "Tesouro Educa+2033",
+      "rentabilidade_anual": "IPCA + 7,24%",
+      "investimento_minimo": "R$ 22,78",
+      "preco_unitario": "R$ 2.278,34",
+      "vencimento": "15/12/2037"
+    },
+    {
+      "nome": "Tesouro Educa+2034",
+      "rentabilidade_anual": "IPCA + 7,18%",
+      "investimento_minimo": "R$ 21,38",
+      "preco_unitario": "R$ 2.138,64",
+      "vencimento": "15/12/2038"
+    },
+    {
+      "nome": "Tesouro Educa+2035",
+      "rentabilidade_anual": "IPCA + 7,14%",
+      "investimento_minimo": "R$ 20,05",
+      "preco_unitario": "R$ 2.005,29",
+      "vencimento": "15/12/2039"
+    },
+    {
+      "nome": "Tesouro Educa+2036",
+      "rentabilidade_anual": "IPCA + 7,11%",
+      "investimento_minimo": "R$ 18,79",
+      "preco_unitario": "R$ 1.879,01",
+      "vencimento": "15/12/2040"
+    },
+    {
+      "nome": "Tesouro Educa+2037",
+      "rentabilidade_anual": "IPCA + 7,08%",
+      "investimento_minimo": "R$ 17,61",
+      "preco_unitario": "R$ 1.761,60",
+      "vencimento": "15/12/2041"
+    },
+    {
+      "nome": "Tesouro Educa+2038",
+      "rentabilidade_anual": "IPCA + 7,07%",
+      "investimento_minimo": "R$ 16,47",
+      "preco_unitario": "R$ 1.647,93",
+      "vencimento": "15/12/2042"
+    },
+    {
+      "nome": "Tesouro Educa+2039",
+      "rentabilidade_anual": "IPCA + 7,06%",
+      "investimento_minimo": "R$ 15,41",
+      "preco_unitario": "R$ 1.541,75",
+      "vencimento": "15/12/2043"
+    },
+    {
+      "nome": "Tesouro Educa+2040",
+      "rentabilidade_anual": "IPCA + 7,06%",
+      "investimento_minimo": "R$ 14,40",
+      "preco_unitario": "R$ 1.440,54",
+      "vencimento": "15/12/2044"
+    },
+    {
+      "nome": "Tesouro Educa+2041",
+      "rentabilidade_anual": "IPCA + 7,06%",
+      "investimento_minimo": "R$ 13,46",
+      "preco_unitario": "R$ 1.346,06",
+      "vencimento": "15/12/2045"
+    },
+    {
+      "nome": "Tesouro Educa+2042",
+      "rentabilidade_anual": "IPCA + 7,06%",
+      "investimento_minimo": "R$ 12,57",
+      "preco_unitario": "R$ 1.257,87",
+      "vencimento": "15/12/2046"
+    },
+    {
+      "nome": "Tesouro Educa+2043",
+      "rentabilidade_anual": "IPCA + 7,04%",
+      "investimento_minimo": "R$ 11,79",
+      "preco_unitario": "R$ 1.179,88",
+      "vencimento": "15/12/2047"
+    }
+  ]
+}
